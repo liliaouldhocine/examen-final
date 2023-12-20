@@ -1,6 +1,6 @@
 let getNomComplet = () => {
-  let monNom = "Ould Hocine";
-  let monPrenom = "Lilia";
+  let monNom = "Oliveira  Rodrigues";
+  let monPrenom = "Yasmin";
   return {
     nom: monNom,
     prenom: monPrenom,
