@@ -1,4 +1,4 @@
-et getNomComplet = () => {
+let getNomComplet = () => {
   let monNom = "de Montigny";
   let monPrenom = "René";
   return {
