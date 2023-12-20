@@ -8,7 +8,7 @@ let getNomComplet = () => {
 };
 
 let getDeclaration = (data) => {
-  return data.nom + " " + data.prenom;
+  return data.nom + " - " + data.prenom;
 };
 
 let afficherDeclaration = () => {
